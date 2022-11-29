@@ -1,7 +1,7 @@
 # Bayesian logistic model for positive and unlabeled data
 
 We provide here code for the method proposed in the article *Bayesian logistic model for positive and unlabeled data*, which is an adaptation of the Bayesian logistic Gibbs sampler proposed in Polson, N.G., Scott, J.G., Windle, J.: *Bayesian inference for logistic models using
-P\'{o}lya–Gamma latent variables* (2013) to PU data.
+P&ograve;lya–Gamma latent variables* (2013) to PU data.
 
 Main functions are in a file **functions.R**.
 
