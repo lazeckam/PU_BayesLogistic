@@ -7,5 +7,5 @@ Main functions are in a file **functions.R**.
 
 The example from Section 3.1 is in **example.R**.
 
-There is also a file called **empty** with supplementary results for all described in Section 3.2 methods.
+There is also a file called **results.pdf** with supplementary results for all described in Section 3.2 methods.
 
